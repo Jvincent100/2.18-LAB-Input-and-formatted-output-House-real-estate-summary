@@ -1,4 +1,4 @@
-2.18 LAB: Input and formatted output: House real estate summary
+<h1>2.18 LAB: Input and formatted output: House real estate summary</h1>
 Sites like Zillow get input about house prices from a database and provide nice summaries for readers. Write a program with two inputs, current price and last month's price (both integers). Then, output a summary listing the price, the change since last month, and the estimated monthly mortgage computed as (currentPrice * 0.051) / 12 (Note: Output directly, do not store in a variable, and end with a newline).
 
 Ex: If the input is:

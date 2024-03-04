@@ -1,0 +1,1 @@
+# 2.18-LAB-Input-and-formatted-output-House-real-estate-summary
